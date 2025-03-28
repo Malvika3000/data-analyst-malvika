@@ -1,34 +1,31 @@
-# 📘 Vancouver Water Quality Analytics – AWS Cloud Portfolio
-The City of Vancouver's complete Data Analytics Platform (DAP) deployment on AWS is displayed in this portfolio.  Using different AWS services, it adheres to a consistent methodology that includes exploratory data analysis, descriptive analysis, data wrangling, and data quality control.
+# Data Analyst Portfolio – Malvika
 
-![image alt](https://github.com/user-attachments/assets/b5006368-aa91-4dcd-84b0-80bedce6577d)
+## Project: AWS-Based Data Analytics Platform for Vancouver Water Quality
+  ![image alt](https://github.com/Malvika3000/data-analyst-malvika/blob/fae437321d55f217c36db312be16b3ad9b627039/1.%20Data%20Ingestion%20Draw.io.png)
 
-## 🔍 Exploratory Data Analysis (EDA)
-**Project Decription**: In order to investigate missing data, data structure, and correlation patterns, the cooling tower, decorative water feature, and building water treatment datasets underwent initial profiling.
+## Project Summary 
+  The goal of this cloud project is to create a Data Analytics Platform (DAP) for the City of Vancouver that is based on three municipal datasets: Building Water Treatment Systems, Decorative Water Features, and Cooling Tower Water.  From intake and profiling to transformation, governance, and monitoring, the project executes the full AWS workflow.  To guarantee performance, security, and data integrity, the solution makes use of Amazon S3, EC2, Glue Studio, Athena, and other AWS services.
 
-**Objective**: to use AWS Glue DataBrew to identify trends and quality problems and comprehend the structure and quality of water data from several facilities.
+**Project Title**: Water Quality Analytics and Transformation Using AWS Cloud Services
 
-**Dataset**:Three datasets of water quality CSV files from the Vancouver Open Data Portal
+**Objective**
+Developing a scalable, safe, and effective platform for consuming, profiling, cleaning, transforming, analyzing, and storing data on water quality is the aim of this project.  The datasets are ready for practical use by local government agencies through appropriate data engineering procedures on AWS.  By arranging data into approved and optimized Parquet formats, the initiative also makes it possible for future data science modeling.
 
-**Methodology**:  
-- Uploaded datasets into S3 using PowerShell via EC2
+**Dataset**
+The datasets include water testing and inspection records collected from various city facilities:
+- Cooling Tower.csv
+- Decorative Water Feature.csv
+- Building Water Treatment.csv
+Each file contains critical parameters such as pH, chlorine level, temperature, and microbial data.
 
-- Visualized architecture using Draw.io
+## Tools and Technologies Used in AWS:
+**1. Data Ingestion and EC2 Setup**
+EC2 Instance Name: VWQS-Malvi
+  ![image alt](https://github.com/Malvika3000/data-analyst-malvika/blob/fae437321d55f217c36db312be16b3ad9b627039/3.EC2.png)
 
-- Created profiling jobs using AWS Glue DataBrew
 
-- Analyzed correlation, duplication, and missing values
 
-**Tools and Technology:**
-Glue Studio, Glue Crawlers, Glue Data Catalog, S3, Parquet
 
-**Deliverables**
-- Architecture Overview
-  ![image alt](https://github.com/Malvika3000/data-analyst-malvika/blob/99de12d1b64683502c680db824d1490841b12047/11.%20draw.io.png)
-- Crawler Output
-  ![image alt](https://github.com/Malvika3000/data-analyst-malvika/blob/99de12d1b64683502c680db824d1490841b12047/12.%20crawler.png)
-- Visual Pipeline
-  ![image alt](https://github.com/Malvika3000/data-analyst-malvika/blob/99de12d1b64683502c680db824d1490841b12047/13.%20visual%20pipeline%20ss.png)
 
 
 
