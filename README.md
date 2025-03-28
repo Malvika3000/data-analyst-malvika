@@ -78,7 +78,9 @@ ETL pipelines, Glue profiling, S3 buckets, PowerShell scripting, EC2, lifecycle 
   With validation rules and traceable metadata, the project guarantees clean, formatted, and efficient data storage in S3.  Water quality officers will be able to monitor trends, spot irregularities, and ensure adherence to public health standards with the use of the condensed data.
   The solution offers long-term scalability and cost-efficiency by defining lifecycle automation and transforming datasets into partitioned Parquet formats.  For real-time monitoring, the city may eventually connect this platform with dashboards or machine learning algorithms.
 
+# Course Completion Badge:
 
+<img width="685" alt="Image" src="https://github.com/user-attachments/assets/994e4e21-702b-4863-b212-c8b5944c8ff1" />
 
 
 
