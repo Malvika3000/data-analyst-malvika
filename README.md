@@ -1,8 +1,7 @@
 # Data Analyst Portfolio – Malvika
 
 ## Project: AWS-Based Data Analytics Platform for Vancouver Water Quality
-![Data Ingestion Diagram](./1. Data Ingestion Draw.io.png)
-
+![1. Data Ingestion Draw.io.png]([image_url](https://github.com/Malvika3000/data-analyst-malvika/blob/a814eaec6931d916ec6651b07f37d3c556dc093e/1.%20Data%20Ingestion%20Draw.io.png))
 ## Project Summary 
   The goal of this cloud project is to create a Data Analytics Platform (DAP) for the City of Vancouver that is based on three municipal datasets: Building Water Treatment Systems, Decorative Water Features, and Cooling Tower Water.  From intake and profiling to transformation, governance, and monitoring, the project executes the full AWS workflow.  To guarantee performance, security, and data integrity, the solution makes use of Amazon S3, EC2, Glue Studio, Athena, and other AWS services.
 
