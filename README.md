@@ -20,7 +20,7 @@ Created separate S3 buckets for cooling towers, decorative features and treatmen
 Figure 1
 AWS Glue DataBrew Recipe Jobs OverView
 
-
+![image alt](https://github.com/Malvika3000/data-analyst-malvika/blob/1d39672164978946a06dd97a749c93d6c3f741f0/1.%20data%20analysis.png)
 
 Profiling Results:
 
