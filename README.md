@@ -9,7 +9,7 @@ The City of Vancouver's complete Data Analytics Platform (DAP) deployment on AWS
 **Dataset**:Three datasets of water quality CSV files from the Vancouver Open Data Portal
 
 **Methodology**:  
-* Uploaded datasets into S3 using PowerShell via EC2
+- Uploaded datasets into S3 using PowerShell via EC2
 
 - Visualized architecture using Draw.io
 
